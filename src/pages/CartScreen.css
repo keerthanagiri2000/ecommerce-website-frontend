@@ -1,0 +1,16 @@
+.fa-minus-circle,
+.fa-plus-circle {
+    display: inline-block;
+    cursor: pointer;
+}
+.fa-plus-circle {
+ margin-right: 5px;
+}
+
+.fa-minus-circle {
+ margin-left: 5px;
+}
+
+.table-responsive-sm {
+    max-height: 100vh;
+}
